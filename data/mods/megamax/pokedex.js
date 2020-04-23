@@ -84,7 +84,7 @@ gengarmegax: {
 },
 gengarmega: {
 	inherit: true, 
-	species: "Gengar-Mega-Y"
+	species: "Gengar-Mega-Y",
 },
 kinglermega: {
 	num: 9.5,
